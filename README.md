@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sdfeagt, also known as Rafal Ciechanski
 - 👀 I’m interested in full stack development, espesially using React
-- 🌱 I’m currently learning basics of cybersecurity, backend development using Express and NodeJS
+- 🌱 I’m currently learning about machine learning and backend development using Express and NodeJS
 - 📫 You can always reach me on rafalciechanski15@gmail.com
 
 <!---
