@@ -4,7 +4,8 @@
 - 📫 You can always reach me on rafalciechanski15@gmail.com
 
 
-![Rafal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sdfeagt&hide=contribs,prs)
+[![Rafal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Sdfeagt&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Sdfeagt/github-readme-stats#gh-dark-mode-only)
+
 
 <!---
 Sdfeagt/Sdfeagt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
