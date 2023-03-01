@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sdfeagt, also known as Rafal Ciechanski
-- 👀 I’m interested in full stack development, espesially using React and NodeJS
+- 👀 I’m interested in full stack development, espesially NEXTJS
 - 🌱 I’m currently learning about Scala, data structures and algorithms
 - 📫 You can always reach me on rafalciechanski15@gmail.com
 
