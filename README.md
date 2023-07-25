@@ -1,13 +1,42 @@
-- 👋 Hi, I’m @Sdfeagt, also known as Rafal Ciechanski
-- 👀 I’m interested in full stack development, espesially NEXTJS
-- 🌱 I’m currently learning about Scala, data structures and algorithms
-- 📫 You can always reach me on rafalciechanski15@gmail.com
+# Hello everyone! :wave:
+
+I'm Rafal Ciechanski, student in Aalto University, originating from Poland. I program mainly in Typescript, but I've also worked with Scala, Python and C/C++. I've found that creating websites, espesially in NextJS, is incredibly rewarding and fun. I'm constantly seeking new experiences and knowledge. My newest project features a CMS admin page / e-commerce shop combo, written in NextJS, with MySQL and prisma used for backend. You can find it here: [Admin page](https://github.com/Sdfeagt/E-commerce-admin-page), [Shop page](https://github.com/Sdfeagt/E-commerce-shop-page).
+
+# Overview
+Github stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdfeagt&hide_progress=true)
 
 
-<!--- Removed the stats until they are repaired
-[![Sdfeagt's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sdfeagt&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Sdfeagt's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sdfeagt&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
---->
+
+## My skills :books:
+
+### Web development
+
+* Javascript/Typescript
+* NextJS
+* HTML, CSS
+* TailwindCSS
+* Eta
+* Deno
+* NodeJS
+* MongoDB
+* Prisma
+* Firestore
+* MySQL
+
+### Programming
+
+* Scala 3
+* Python
+* Jupyter Notebook
+* C/C++
+
+
+
+## Where to reach me :email:
+
+You can alwaysn reach me at rafalciechanski15@gmail.com.
 
 
 
