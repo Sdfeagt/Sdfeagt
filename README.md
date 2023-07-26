@@ -7,7 +7,9 @@ Github stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdfeagt&hide_progress=true)
 
+<details>
 
+<summary>See more</summary>
 
 ## My skills :books:
 
@@ -39,6 +41,7 @@ Github stats:
 You can alwaysn reach me at rafalciechanski15@gmail.com.
 
 
+</details>
 
 
 
