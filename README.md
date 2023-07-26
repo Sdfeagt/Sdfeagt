@@ -1,6 +1,6 @@
 # Hello everyone! :wave:
 
-I'm Rafal Ciechanski, student in Aalto University, originating from Poland. I program mainly in Typescript, but I've also worked with Scala, Python and C/C++. I've found that creating websites, espesially in NextJS, is incredibly rewarding and fun. I'm constantly seeking new experiences and knowledge. My newest project features a CMS admin page / e-commerce shop combo, written in NextJS, with MySQL and prisma used for backend. You can find it here: [Admin page](https://github.com/Sdfeagt/E-commerce-admin-page), [Shop page](https://github.com/Sdfeagt/E-commerce-shop-page).
+I'm Rafal Ciechanski, student in Aalto University, originating from Poland. I program mainly in Typescript, but I've also worked with Scala, Python and C/C++. Over the last couple of months I've found that creating websites, espesially in NextJS, is incredibly rewarding and fun. I'm constantly seeking new experiences and knowledge. My newest project features a CMS admin page / e-commerce shop combo, written in NextJS, with MySQL and prisma used for backend. You can find it here: [Admin page](https://github.com/Sdfeagt/E-commerce-admin-page), [Shop page](https://github.com/Sdfeagt/E-commerce-shop-page).
 
 # Overview
 Github stats:
