@@ -1,7 +1,7 @@
 # Hello everyone! :wave:
 
 I'm Rafal Ciechanski, student in Aalto University, originating from Poland. I program mainly in Python, but I've also worked with Scala, TypeScript and C/C++.
-You can alwaysn reach me at rafalciechanski15@gmail.com.
+You can always reach me at rafalciechanski15@gmail.com.
 
 
 <!---
